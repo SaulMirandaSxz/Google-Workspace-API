@@ -4,21 +4,22 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SaulMirandaSxz/google-workspace-api.git"
+        "type": "git",
+        "url": "git+https://github.com/SaulMirandaSxz/google-workspace-api.git"
     },
     "author": "Saul Miranda",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/SaulMirandaSxz/google-workspace-api/issues"
+        "url": "https://github.com/SaulMirandaSxz/google-workspace-api/issues"
     },
     "homepage": "https://github.com/SaulMirandaSxz/google-workspace-api#readme",
     "dependencies": {
-      "axios": "^0.27.2",
-      "body-parser": "^1.20.0",
-      "express": "^4.18.1"
+        "axios": "^0.27.2",
+        "body-parser": "^1.20.0",
+        "dotenv": "^16.0.2",
+        "express": "^4.18.1"
     }
-  }
+}
